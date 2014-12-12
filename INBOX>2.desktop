@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to INBOX>2
+Type=Link
+URL=imap://boyuping%40yandex%2Eru@imap.yandex.com:993/fetch%3EUID%3E/INBOX%3E2
+Icon=text-html

@@ -1,0 +1,58 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #FEFEFE no-repeat right bottom;
+	font-family: 'Lucida Grande',arial,verdana,sans-serif;
+	color: #666;
+	font-size: 12px;
+	line-height: 150%;
+}
+
+#mainbox{
+	margin: auto;
+	border:0px;
+	background: #fff;
+	width: 778px;
+	 
+}
+
+#left{
+	width: 200px;
+	height: 400px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	background: #CDCDCD;
+}
+
+#middle{
+	padding: 0px;
+	float: left;
+	width: 200px;
+	height: 400px;
+	background: #DADADA;
+}
+#right{
+	width: 378px;
+	float: left;
+	height: 400px;
+	background: #CCCCCC;
+}
+
+#header{
+	margin: auto;
+	border: 0px;
+	background: #ccd2de;
+	width: 778px;
+	height: 60px;
+	border: 1px solid#000000;
+
+}
+#footer{
+	clear: both;
+	margin: auto;
+	padding: 5px 0px 5px 0px;
+	background: #ccd2de;
+	width: 778px;
+	height: 40px;
+}
